@@ -9,7 +9,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python 
-- 🌐 &nbsp; HTML | CSS | JavaScript | PHP | Bootstrap | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | PHP | Bootstrap | Node.js | ReactJS | Angular
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git 
 - 🖥 &nbsp; Photoshop | Figma
