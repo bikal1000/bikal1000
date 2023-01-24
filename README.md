@@ -19,6 +19,8 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikal1000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bikal's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikal1000&layout=compact&theme=buefy&hide_border=true" />|
 | ------------- | ------------- |
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=bikal1000)](https://git.io/streak-stats)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
