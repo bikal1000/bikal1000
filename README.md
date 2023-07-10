@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Bikal.</h2>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikal1000" alt="bikal1000" /></a> </p>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing web solutions and quick hacks.
