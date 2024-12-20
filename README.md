@@ -13,16 +13,27 @@
 - 🔧 &nbsp; Git 
 - 🖥 &nbsp; Photoshop | Figma
 
-<br/>
+## Profile Summary
+<p align="center">
+ <a href="https://github.com/bikal1000">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikal1000&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&theme=cobalt&line_height=48" alt="Bikal's GitHub Stats"/>
+ </a>
+ 
+ <a href="https://github.com/bikal1000">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikal1000&show_icons=true&langs_count=5&hide_border=false&theme=gruvbox" alt="Bikal's GitHub Stats"/>
+ </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikal1000" alt="bikal1000" /></a> </p>
-
-<br/>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikal1000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bikal's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikal1000&layout=compact&theme=buefy&hide_border=true" />|
-| ------------- | ------------- |
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bikal1000)](https://git.io/streak-stats)
+## Stats
+<p align="center">
+ <a href="https://github.com/bikal1000">
+   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikal1000&theme=algolia" alt="Bikal's GitHub Stats" />
+ </a>
+ 
+ <a href="https://github.com/bikal1000">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikal1000" alt="bikal1000" />
+ </a>
+</p>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
